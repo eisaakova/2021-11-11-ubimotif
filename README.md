@@ -9,3 +9,7 @@
 * [Python Materials:](https://idpfun.github.io/IDP_Python/)
 * [GitHub Materials:](https://malvikasharan.github.io/developing_collaborative_document/)
 * [Git materials](https://swcarpentry.github.io/git-novice/) (will not be covered in this workshop) and [video tutorial](https://www.youtube.com/watch?v=fTRtzsYo7Ho) for it
+
+## Project Members
+
+- Katya

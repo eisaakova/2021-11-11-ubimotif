@@ -1,8 +1,8 @@
 # Ubimotif Workshop
 
 * **Date:** 11-13 November 2021
-* **Enterpad:** https://pad.carpentries.org/2021-11-11-ubimotif
-* **Website info:** https://normandavey.github.io/2021-11-11-ubimotif/
+* **[Enterpad:](https://pad.carpentries.org/2021-11-11-ubimotif) **
+* **[Website info:](https://normandavey.github.io/2021-11-11-ubimotif/)**
 
 ## Training materials
 * [Unix Materials:](https://swcarpentry.github.io/shell-novice/)
